@@ -68,7 +68,7 @@ services:
     restart: always
 
   celery_worker:
-    build: .
+    image: fast-api-api
     container_name: celery_worker
     command: celery -A app.core.celery_app worker --loglevel=info
     volumes:
