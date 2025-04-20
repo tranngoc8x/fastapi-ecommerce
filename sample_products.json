@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Smartphone X",
+    "description": "Latest smartphone with advanced features",
+    "price": 799.99,
+    "stock": 100,
+    "is_active": true
+  },
+  {
+    "name": "Laptop Pro",
+    "description": "High-performance laptop for professionals",
+    "price": 1299.99,
+    "stock": 50,
+    "is_active": true
+  },
+  {
+    "name": "Wireless Headphones",
+    "description": "Premium noise-cancelling headphones",
+    "price": 199.99,
+    "stock": 200,
+    "is_active": true
+  },
+  {
+    "name": "Smart Watch",
+    "description": "Fitness and health tracking smartwatch",
+    "price": 249.99,
+    "stock": 75,
+    "is_active": true
+  },
+  {
+    "name": "Tablet Mini",
+    "description": "Compact tablet for entertainment and productivity",
+    "price": 349.99,
+    "stock": 60,
+    "is_active": true
+  }
+]
